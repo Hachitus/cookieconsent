@@ -1493,3 +1493,5 @@
   window.cookieconsent = cc;
 
 }(window.cookieconsent || {}));
+
+export default window.cookieconsent;
